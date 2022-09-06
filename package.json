@@ -1,6 +1,6 @@
 {
   "name": "vanilla-screen",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dynamically set screen size with js.",
   "main": "index.js",
   "scripts": {},
